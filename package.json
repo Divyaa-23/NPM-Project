@@ -4,7 +4,7 @@
   "description": "NPM example project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "translate":"sass ./input/:./output/"
   },
   "author": "Divyaa",
   "license": "ISC",
